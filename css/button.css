@@ -1,0 +1,19 @@
+button{
+    background-color: blue;
+    border: 0px;
+    color: #fff;
+    width: 250px;
+    height: 77px ;
+    border-radius: 10px;
+    display: inline-block;
+}
+button:hover{
+    background-color: darkblue;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    color:#fff;
+    padding-top: 50px;
+}
